@@ -45,6 +45,7 @@ class FieldManager():
                 plus = i[4]
                 x = i[5]
                 break
+            
         return changable, to_change, plus, x
 
 
